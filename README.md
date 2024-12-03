@@ -1,6 +1,9 @@
 # KaryaSarthi - Empowering Job Seekers and Employers
 
 KaryaSarthi is a full-stack job portal designed to connect job seekers with employers, offering a seamless platform for profile creation, job search, application, and job listing management. It delivers an intuitive and responsive user experience powered by modern web technologies.
+## 🌐 Live Demo
+
+Explore the deployed project here: [KaryaSarthi](https://karya-sarthi.vercel.app/)
 
 ## 🚀 Features
 
